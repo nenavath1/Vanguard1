@@ -1,2 +1,2 @@
 # Vanguard1
-Vanguard repo
+Vanguard repo for git repository
